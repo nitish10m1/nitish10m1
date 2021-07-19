@@ -1,2 +1,7 @@
-Problem Statements: 
-Imagine that you are a Recipe Author at Cookpad. For an upcoming event you feel motivated to create a dish that is novel and is inspired by your love of world food. After much deliberation you are struck by the simple idea of combining your two favorite light snacks, Sushi and Sandwiches. You are convinced that this dish is unique and decide to call it “Sushidi”. However, to conduct some due diligence you decide to check the Cookpad platform for examples of Sushidi, just to be sure. Based on the provided dataset please develop an automated method or workflow to analyse the contents and output a list of filenames that could potentially be considered as “Sushidi”. Your approach can use any area of machine or deep learning in order to accomplish that task.
+To classify sushi and sandwich images I have used various image classification models of Tensorflow and Keras.  I have tried multiple networks with various models which are described below. 
+1.	VGG16 model with multiple combination of networks. 
+2.	ResNet50 model with multiple combination of networks. 
+3.	VGG19 model with multiple combination of networks. 
+4.	InceptionV3 model with one combination of networks
+5.	MobileNetV2 model with one combination of networks 
+
